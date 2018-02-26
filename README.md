@@ -1,3 +1,5 @@
+# Please head to the report.pdf file to view a full documentation of the project.
+
 Python version used in this project is:
 Python 3.5
 
